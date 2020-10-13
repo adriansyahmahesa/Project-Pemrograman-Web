@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CV ADRIANSYAH MAHESA WICAKSANA</title>
+        <style>
+            h1 {text-align: center;}
+            td {text-align: center;}
+        </style>
+    </head>
+    <body bgcolor="cyan">
+        <h1>CURRICULUM VITAE
+            <br><img src="foto.png"/>        
+        </h1>
+        <hr color-"red">
+        <h2>Biodata Pribadi</h2>
+            <p>
+               <ol>
+                    <li>Nama Lengkap           :  Adriansyah Mahesa Wicaksana</li>
+                    <li>Tempat, Tanggal Lahir  :  Depok, 11 Maret 2002</li>
+                    <li>Jenis Kelamin          :  Laki-laki</li>
+                    <li>Alamat                 :  Jalan Tugu Jaya No. 52 Kota Depok Jawa Barat</li>
+                    <li>Agama                  :  Islam</li>
+                    <li>No Telfon              :  082258292031</li>
+                    <li>Status                 :  Belum Menikah</li>
+                    <li>Pekerjaan              :  Mahasiswa</li>
+                    <li>Email                  :  mahesaadriansyah100@gmail.com</li>
+               </ol>
+            </p>
+        <h2>Riwayat Pendidikan</h2>
+        <table style= "width: 600px;" border="1"
+            <tr style= "background-color: rgb(196, 196, 196);">
+                <th>Tingkat</th>
+                <th>Nama Sekolah</th>
+            </tr>
+            <tr style="background-color: rgb(233, 249, 255);">
+                <td>SD</td>
+                <td>MI PLUS AL-MUHAJIRIN</td>
+            </tr>
+            <tr style="background-color: rgb(233, 249, 255);">
+                <td>SMP</td>
+                <td>SMP NEGERI 6 DEPOK</td>
+            </tr> 
+            <tr style="background-color: rgb(233, 249, 255);">
+                <td>SMK</td>
+                <td>SMK MULTICOMP DEPOK</td>
+            </tr>  
+        </table>                    
+        <h2>Kemampuan</h2>
+        <ol>
+            <li>Designer Percetakan & Digital Printing</li>
+        </ol>
+        <h2>Pengalaman Kerja</h2>
+        <ol>
+            <li>Prakerin di Cv Global Grafika</li>
+        </ol>
+        <h2>Social Media</h2>
+        <a href="http://www.instagram.com/adrnsyhmhsa/">My Instagram Profile
+        <br>
+    </body>
+</html>
